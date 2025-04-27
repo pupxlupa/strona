@@ -1,0 +1,77 @@
+*{
+	font-family: courier;
+	color: white;
+}
+h1{
+	font-size: 36px;
+}
+#baner{
+	text-align: center;
+	background-color: #3F4E4F;
+	height: 150px;
+	width: 100%;
+	padding-top: 50px;
+	letter-spacing: 15px;
+}
+#menu{
+	background-color: #A27B5C;
+	height: 80px;
+	width: 100%;
+	padding-top: 20px;
+}
+#nagłówek{
+	background-color: #DCD7C9;
+	height: 100px;
+	padding-top: 50px;
+	text-align: center;
+	font-size: 54px;
+	font-weight: bold;
+	letter-spacing: 15px;
+}
+#główny{
+	background-color: #f4ecd7;
+	height: 800px;
+	width: 100%;
+	padding-top: 25px;
+	color: #A27B5C;
+}
+#stopka{
+	background-color: #2C3639;
+	height: 70px;
+	width: 100%;
+	text-align: center;
+	padding-top: 30px;
+	font-size: 18px;
+	word-spacing: 8px;
+	letter-spacing: 5px;
+}
+.button{
+	background-color: #f4ecd7;
+	color: #A27B5C;
+	padding: 14px 28px;
+	font-size: 26px;
+	border: none;
+	border-radius: 50px;
+	cursor: pointer;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+	transition: all 0.3s ease-in-out;
+	margin-right: 35px;
+	font-weight: bold;
+}
+.button:hover{
+	transform: scale(1.05);
+	box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+p{
+	padding: 40px;
+	font-size: 36px;
+	color: #A27B5C;
+	text-align: justify;
+}
+#zdjęcia{
+	padding: 30px;
+	margin: auto;
+}
+img{
+	margin-right: 50px;
+}
